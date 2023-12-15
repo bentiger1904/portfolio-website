@@ -1,0 +1,23 @@
+/* Global styles ============= */
+body {
+  margin-top: 40px;
+}
+
+.box {
+  background-color: lightblue;
+  border: 1px solid blue;
+  min-height: 50px;
+  font-size: 2rem;
+}
+
+.profile-image {
+  width: 450px;
+  height: 300px;
+  width: 20vw;
+  border-radius: 50%;
+  border: 3px black double;
+  padding: 1.2%;
+}
+.profile {
+    background-color: aqua;
+}
