@@ -2,12 +2,8 @@
 body {
   margin-top: 40px;
 }
-
-.box {
-  background-color: lightblue;
-  border: 1px solid blue;
-  min-height: 50px;
-  font-size: 2rem;
+.hero {
+    background-color: black;
 }
 
 .profile-image {
@@ -19,5 +15,12 @@ body {
   padding: 1.2%;
 }
 .profile {
-    background-color: aqua;
+  
+}
+/*Screen size 900px*/
+@media (max-width: 900px) {
+  .profile-image {
+    min-width: 170.62px;
+    min-height: 161.41;
+  }
 }
