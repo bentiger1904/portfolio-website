@@ -7,6 +7,10 @@
     background-color: black;
     margin-top: 150px;
 }
+.navbar {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
 .navbar-collapse {
     justify-content: end;
 }
@@ -18,6 +22,17 @@
   border-radius: 50%;
   border: 3px black double;
   padding: 1.2%;
+}
+#projectcards {
+  min-height: 900px;
+}
+h2 {
+  color: blue !important;
+  text-decoration: underline;
+}
+
+.card {
+  background-color: rgb(222, 237, 241);
 }
 
 /*Screen size 1300px*/
