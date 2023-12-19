@@ -24,6 +24,8 @@ Tasks;
 
 Live site You can find the live site here - https://bentiger1904.github.io/Bootstrap-Portfolio/
 
+![portfolio-website-screenshot](https://github.com/bentiger1904/Bootstrap-Portfolio/assets/150267998/f541da60-8ac1-40fa-bb85-73d970514804)
+
 License MIT License
 
 Features Click buttons in nav bar to jump down the page to the correct section All images and headings hyperlinked Fully semantic
